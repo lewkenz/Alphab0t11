@@ -3,26 +3,17 @@ return `DONASI BISA VIA BANK / E-MONEY
 
 *🏧 BANK*
 
-1. BRI 
-	ㅁ 8881 0887 4350 47326
-2. BCA 
-	ㅁ 3901 0887 4350 47326
-3. BNI 
-	ㅁ 881 0887 4350 47326
-4. PERMATA
-	ㅁ 852 8887 4350 47326
-	
+1. BCA 
+	ㅁ 0882165416
+
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0887 4350 47326
+	ㅁ 0813 3409 3597
 2. OVO
-	ㅁ 0887 4350 47326
+	ㅁ 0856 9446 0820
 3. DANA
-	ㅁ 0887 4350 47326
-	
-Semuanya atas nama RI****DI
-`
+	ㅁ 0856 9446 0820
 	}
 
 exports.donasibot = donasibot
